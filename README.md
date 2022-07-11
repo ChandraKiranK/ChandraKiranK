@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChandraKiranK
+- 👀 I’m looking for an opportunity in Data science roles
+- 🌱 I’m currently improving my skills in Deep learning
